@@ -1,0 +1,14 @@
+Package: com.hattar14.zoro
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Hattar14 <raadhattar14@gmail.com>
+Depends: com.spark.snowboard
+Filename: /Zoro.deb
+Size: 13400840
+MD5sum: a85bc030f3f66cd5eb7e237b4620d37c
+SHA1: 459a4f717e554875844f2a1fe1562935381eb9fc
+SHA256: e941312ea8ae08c3a2b51019fa96dee1b888bb8b53f4d5e10383733a4fb1dd5b
+Section: Themes
+Description: A test theme for my repo.
+Author: Hattar14 <raadhattar14@gmail.com>
+Name: Zoro
